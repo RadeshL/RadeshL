@@ -6,15 +6,15 @@
   </a>
 </p>
 
----
 <p align="center">
-  
-<img height="50" style="margin: 0 20px;" src="https://cdn.simpleicons.org/buymeacoffee/white" />
-<img height="50" style="margin: 0 20px;" src="https://cdn.simpleicons.org/redbull/white" />
-<img height="50" style="margin: 0 20px;" src="https://cdn.simpleicons.org/spotify/white" />
+
+<img height="50" style="margin: 0 30px;" src="https://cdn.simpleicons.org/buymeacoffee/white" />
+<img height="50" style="margin: 0 30px;" src="https://cdn.simpleicons.org/redbull/white" />
+<img height="50" style="margin: 0 30px;" src="https://cdn.simpleicons.org/spotify/white" />
 
 </p>
 
+---
 
 ## About Me
 
