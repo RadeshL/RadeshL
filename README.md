@@ -9,9 +9,9 @@
 ---
 <p align="center">
 
-<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=buymeacoffee&logoColor=6F4E37"/>
-<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redbull&logoColor=DB0A40"/>
-<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
+<img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+<img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=redbull&logoColor=white"/>
+<img height="60" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=spotify&logoColor=white"/>
 
 </p>
 
