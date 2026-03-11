@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radesh</h1>
+<h1 align="center">Hi, I'm Radesh</h1>
 <h3 align="center">Engineer • Developer • Builder</h3>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=grey"/>
 
 </p>
 
