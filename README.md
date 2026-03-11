@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Radesh</h1>
-<h3 align="center">Engineer • Developer • Builder</h3>
 
 <p align="center">
   <a href="https://github.com/RadeshL">
