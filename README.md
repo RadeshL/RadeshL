@@ -7,6 +7,16 @@
 </p>
 
 ---
+## Fun
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Coffee-Powered-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge&logo=heart&logoColor=white"/>
+
+</p>
+
 
 ## About Me
 
