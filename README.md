@@ -1,5 +1,6 @@
-![download-ezgif com-resize](https://github.com/user-attachments/assets/703e36c1-8bc6-4dca-adec-380a9d0baaf2)
-<h1 align="center">Hi, I'm Radesh</h1>
+![download-ezgif com-resize (1)](https://github.com/user-attachments/assets/ac30bb26-98bb-4aab-82bf-92e147297b48)
+<h1 align="center">Hi, I'm Radesh
+</h1>
 
 <p align="center">
   <a href="https://github.com/RadeshL">
