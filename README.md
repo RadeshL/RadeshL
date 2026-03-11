@@ -9,8 +9,9 @@
 ---
 <p align="center">
 
-![](https://img.shields.io/badge/Coffee-Powered-6f4e37?style=flat&logo=buymeacoffee&logoColor=white)
-![](https://img.shields.io/badge/Built%20with-Love-red?style=flat&logo=heart&logoColor=white)
+<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=buymeacoffee&logoColor=6F4E37"/>
+<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redbull&logoColor=DB0A40"/>
+<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
 
 </p>
 
