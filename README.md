@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/RadeshL">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Engineering+Student;Developer+%7C+Builder;Exploring+AI+%26+Automation;Always+Learning+New+Things" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Engineering+Student;Developer;Builder;Exploring+AI+%26+Automation" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,flutter,git,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,flutter,git,linux,mysql,mongodb,reactjs,fastapi,nodejs,langchain,pandas,numpy,nltk" />
 
 </p>
 
@@ -74,20 +74,12 @@ Some of the projects I work on involve:
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/radesh-l-289426329">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="radeshl2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-  
-⭐ From <a href="https://github.com/RadeshL">Radesh</a>
 
 </p>
