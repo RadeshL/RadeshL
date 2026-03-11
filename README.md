@@ -22,7 +22,16 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,flutter,git,linux,mysql,mongodb,reactjs,fastapi,nodejs,langchain,pandas,numpy,nltk" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,flutter,react,nodejs,fastapi,mysql,mongodb,git,linux" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
 </p>
 
