@@ -9,9 +9,9 @@
 ---
 <p align="center">
 
-<img height="120" src="https://cdn.simpleicons.org/buymeacoffee/white" />
-<img height="120" src="https://cdn.simpleicons.org/redbull/white" />
-<img height="120" src="https://cdn.simpleicons.org/spotify/white" />
+<img height="70" src="https://cdn.simpleicons.org/buymeacoffee/white" />
+<img height="70" src="https://cdn.simpleicons.org/redbull/white" />
+<img height="70" src="https://cdn.simpleicons.org/spotify/white" />
 
 </p>
 
