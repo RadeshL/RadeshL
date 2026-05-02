@@ -49,14 +49,6 @@
 
 ---
 
-## 3D Contributions City
-
-<p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=RadeshL&theme=tokyo-night" />
-</p>
-
----
-
 ## Activity Graph
 
 <p align="center">
