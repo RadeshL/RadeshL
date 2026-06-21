@@ -17,8 +17,6 @@
 
 ---
 
-## GitHub Space Shooter
-
 ![My GitHub Game](game.gif)
 ---
 
