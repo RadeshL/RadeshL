@@ -89,7 +89,14 @@ Currently learning, building, and figuring things out as I go.
 <img src="https://streak-stats.demolab.com/?user=RadeshL&theme=tokyonight&hide_border=true"/>
 
 </td>
-
+<td>
+  <h4 align = "center">Projects</h4>
+  <ul>
+    <li><b>Recurse Reality:</b> an interactive recursion visualizer to replay recursive algorithm execution in 2D/3D.</li>
+    <li><b>IITM Image Classification:</b> convolutional neural network architecture for discrete multi-object counting of mechanical components</li>
+    <li><b>SemEval Task 11:</b> a complementary rule-based pipeline using canonical logical form extraction and type-based reasoning</li>
+  </ul>
+</td>
 </tr>
 </table>
 
