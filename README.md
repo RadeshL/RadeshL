@@ -11,7 +11,7 @@
 
 <td width="60%" valign="middle">
 
-<p align="center"><b>About Me</b></p>
+<p align="center"><b>About Me <img src="./coffee-cup.png" width="20"></b></p>
 
 <p align="center">
 I build things that live on the internet, break them, fix them and occasionally make them look good too.
