@@ -7,14 +7,22 @@
 </p>
 
 <table width="100%">
+<tr>
+
 <td width="60%" valign="middle">
 
-<h4 align = "center">About Me</h4>
-<p align = "center">I build things that live on the internet, break them, fix them and occasionally make them look good too. I'm mostly working with React, Node.js, Three.js, and whatever catches my interest that week. Currently learning, building, and figuring things out as I go.</p>
-<br>
+<p align="center"><b>About Me</b></p>
+
+<p align="center">
+I build things that live on the internet, break them, fix them and occasionally make them look good too.
+I'm mostly working with React, Node.js, Three.js, and whatever catches my interest that week.
+Currently learning, building, and figuring things out as I go.
+</p>
+
 </td>
 
 <td width="40%" align="center" valign="middle">
+<br>
 <a href="https://github.com/RadeshL">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
@@ -41,9 +49,9 @@
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<h4 align = "center">Tech Stack</h4>
+<p align="center"><b>Tech Stack</b></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flutter,react,nodejs,fastapi,mysql,mongodb,git,linux" />
@@ -58,41 +66,11 @@
 
 </td>
 
-<td width="50%" align="center" valign="middle">
-<h4 align = "center">Activity Graph</h4>
+<td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadeshL&theme=tokyo-night" width="95%"/>
-</td>
+<p align="center"><b>Activity Graph</b></p>
 
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-<h3>Contribution Streak</h3>
-
-<img src="https://streak-stats.demolab.com/?user=RadeshL&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<h3>Projects</h3>
-
-Machine learning and AI experimentation
-
-<br><br>
-
-Developer tools and utilities
-
-<br><br>
-
-Backend systems and automation workflows
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadeshL&theme=tokyo-night" width="95%" />
 
 </td>
 
@@ -106,14 +84,21 @@ Backend systems and automation workflows
 
 <td align="center">
 
+<p align="center"><b>Contribution Streak</b></p>
 
+<img src="https://streak-stats.demolab.com/?user=RadeshL&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 </tr>
 </table>
-<img src="game.gif" width="95%" />
-<div align="center">
-<i>always building something.</i>
-</div>
 
+<br>
+
+<p align="center">
+  <img src="game.gif" width="95%" />
+</p>
+
+<div align="center">
+<i>high on caffine ~</i>
+</div>
