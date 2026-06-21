@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Radesh</h1>
+<h2 align="center">Hi, I'm Radesh</h2>
 
 <p align="center">
   <a href="https://github.com/RadeshL">
@@ -6,21 +6,44 @@
   </a>
 </p>
 
----
+<table width="100%">
+<td width="60%" valign="middle">
 
-## About Me
+<h4 align = "center">About Me</h4>
+<p align = "center">I build things that live on the internet, break them, fix them and occasionally make them look good too. I'm mostly working with React, Node.js, Three.js, and whatever catches my interest that week. Currently learning, building, and figuring things out as I go.</p>
+<br>
+</td>
 
-- Engineering student passionate about **building impactful software**
-- Interested in **AI, automation, and scalable systems**
-- Exploring **backend development, ML, and developer tools**
-- I enjoy turning ideas into **working products**
+<td width="40%" align="center" valign="middle">
+<a href="https://github.com/RadeshL">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+<br>
+<br>
 
----
+<a href="https://www.linkedin.com/in/radesh-l-289426329">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<br>
+<br>
 
-![My GitHub Game](game.gif)
----
+<a href="mailto:radeshl2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-## Tech Stack
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<h4 align = "center">Tech Stack</h4>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flutter,react,nodejs,fastapi,mysql,mongodb,git,linux" />
@@ -33,48 +56,64 @@
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=grey"/>
 </p>
 
----
+</td>
 
-## Contribution Streak
+<td width="50%" align="center" valign="middle">
+<h4 align = "center">Activity Graph</h4>
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadeshL&theme=tokyo-night" width="95%"/>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<h3>Contribution Streak</h3>
+
 <img src="https://streak-stats.demolab.com/?user=RadeshL&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+</td>
 
-## Activity Graph
+<td width="50%" align="center" valign="middle">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadeshL&theme=tokyo-night"/>
-</p>
+<h3>Projects</h3>
 
----
+Machine learning and AI experimentation
 
-## Projects
+<br><br>
 
-Some of the projects I work on involve:
+Developer tools and utilities
 
-- Machine learning and AI experimentation
-- Developer tools and utilities
-- Backend systems and automation workflows
+<br><br>
 
----
+Backend systems and automation workflows
 
-## Connect With Me
+</td>
 
-<p align="center">
+</tr>
+</table>
 
-<a href="https://github.com/RadeshL">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
+<br>
 
-<a href="https://www.linkedin.com/in/radesh-l-289426329">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<table width="100%">
+<tr>
 
-<a href="mailto:radeshl2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<td align="center">
 
-</p>
+
+
+</td>
+
+</tr>
+</table>
+<img src="game.gif" width="95%" />
+<div align="center">
+<i>always building something.</i>
+</div>
+
