@@ -24,19 +24,20 @@ Currently learning, building, and figuring things out as I go.
 <td width="40%" align="center" valign="middle">
 <br>
 <a href="https://github.com/RadeshL">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
+</a>
 </a>
 <br>
 <br>
 
 <a href="https://www.linkedin.com/in/radesh-l-289426329">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
 </a>
 <br>
 <br>
 
 <a href="mailto:radeshl2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </td>
@@ -70,7 +71,7 @@ Currently learning, building, and figuring things out as I go.
 
 <p align="center"><b>Activity Graph</b></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadeshL&theme=tokyo-night" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RadeshL&theme=high-contrast" width="95%" />
 
 </td>
 
@@ -86,7 +87,7 @@ Currently learning, building, and figuring things out as I go.
 
 <p align="center"><b>Contribution Streak</b></p>
 
-<img src="https://streak-stats.demolab.com/?user=RadeshL&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=RadeshL&theme=highcontrast&hide_border=true"/>
 
 </td>
 <td>
@@ -95,6 +96,7 @@ Currently learning, building, and figuring things out as I go.
     <li><b>Recurse Reality:</b> an interactive recursion visualizer to replay recursive algorithm execution in 2D/3D.</li>
     <li><b>IITM Image Classification:</b> convolutional neural network architecture for discrete multi-object counting of mechanical components</li>
     <li><b>SemEval Task 11:</b> a complementary rule-based pipeline using canonical logical form extraction and type-based reasoning</li>
+    <br>
   </ul>
 </td>
 </tr>
